@@ -1,5 +1,6 @@
-package com.itersdesktop.javatechs.springboot;
+package com.itersdesktop.javatechs.springboot.controller;
 
+import com.itersdesktop.javatechs.springboot.Response;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

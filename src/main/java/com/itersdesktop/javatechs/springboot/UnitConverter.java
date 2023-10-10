@@ -1,7 +1,7 @@
 package com.itersdesktop.javatechs.springboot;
 
 public class UnitConverter {
-    static void convert(ConversionDetails details) throws UnitConversionException {
+    public static void convert(ConversionDetails details) throws UnitConversionException {
         String fromUnit = details.getFromUnit();
         String toUnit = details.getToUnit();
 
