@@ -1,6 +1,6 @@
-package com.itersdesktop.javatechs.springboot.format;
+package net.biomodels.jummp.core.service.fileformat.format;
 
-import com.itersdesktop.javatechs.springboot.model.RepositoryFileDao;
+import net.biomodels.jummp.core.service.fileformat.model.RepositoryFileDao;
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.Resource;
 import com.hp.hpl.jena.vocabulary.DCTerms;

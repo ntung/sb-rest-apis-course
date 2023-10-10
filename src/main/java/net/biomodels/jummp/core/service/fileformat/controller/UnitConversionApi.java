@@ -1,8 +1,8 @@
-package com.itersdesktop.javatechs.springboot.controller;
+package net.biomodels.jummp.core.service.fileformat.controller;
 
-import com.itersdesktop.javatechs.springboot.ConversionDetails;
-import com.itersdesktop.javatechs.springboot.UnitConversionException;
-import com.itersdesktop.javatechs.springboot.UnitConverter;
+import net.biomodels.jummp.core.service.fileformat.ConversionDetails;
+import net.biomodels.jummp.core.service.fileformat.UnitConversionException;
+import net.biomodels.jummp.core.service.fileformat.UnitConverter;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,4 +1,4 @@
-package com.itersdesktop.javatechs.springboot.model;
+package net.biomodels.jummp.core.service.fileformat.model;
 
 public class Model {
     private String name;

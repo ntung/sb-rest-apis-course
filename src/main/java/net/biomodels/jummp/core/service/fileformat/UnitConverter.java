@@ -1,4 +1,4 @@
-package com.itersdesktop.javatechs.springboot;
+package net.biomodels.jummp.core.service.fileformat;
 
 public class UnitConverter {
     public static void convert(ConversionDetails details) throws UnitConversionException {

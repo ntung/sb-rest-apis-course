@@ -1,13 +1,13 @@
-package com.itersdesktop.javatechs.springboot;
+package net.biomodels.jummp.core.service.fileformat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
-@SpringBootApplication(scanBasePackages = {"com.itersdesktop.javatechs.springboot"})
+@SpringBootApplication(scanBasePackages = {"net.biomodels.jummp.*"})
 @EnableAsync
-public class HelloWorldRestApiApplication {
+public class FileFormatServiceApp {
     public static void main(String[] args) {
-        SpringApplication.run(HelloWorldRestApiApplication.class, args);
+        SpringApplication.run(FileFormatServiceApp.class, args);
     }
 }

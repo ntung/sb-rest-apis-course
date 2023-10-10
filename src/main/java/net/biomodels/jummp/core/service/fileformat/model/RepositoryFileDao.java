@@ -1,4 +1,4 @@
-package com.itersdesktop.javatechs.springboot.model;
+package net.biomodels.jummp.core.service.fileformat.model;
 
 import java.io.File;
 import java.io.Serializable;

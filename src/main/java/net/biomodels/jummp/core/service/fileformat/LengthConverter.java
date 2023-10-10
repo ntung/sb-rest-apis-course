@@ -1,4 +1,4 @@
-package com.itersdesktop.javatechs.springboot;
+package net.biomodels.jummp.core.service.fileformat;
 
 public class LengthConverter {
     public static void km2Mile(ConversionDetails details) {

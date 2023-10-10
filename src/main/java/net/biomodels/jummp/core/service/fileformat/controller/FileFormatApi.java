@@ -1,8 +1,8 @@
-package com.itersdesktop.javatechs.springboot.controller;
+package net.biomodels.jummp.core.service.fileformat.controller;
 
-import com.itersdesktop.javatechs.springboot.format.OmexService;
-import com.itersdesktop.javatechs.springboot.model.Model;
-import com.itersdesktop.javatechs.springboot.model.RepositoryFileDao;
+import net.biomodels.jummp.core.service.fileformat.format.OmexService;
+import net.biomodels.jummp.core.service.fileformat.model.Model;
+import net.biomodels.jummp.core.service.fileformat.model.RepositoryFileDao;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

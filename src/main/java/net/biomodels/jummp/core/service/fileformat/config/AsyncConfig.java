@@ -1,4 +1,4 @@
-package com.itersdesktop.javatechs.springboot.config;
+package net.biomodels.jummp.core.service.fileformat.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.itersdesktop.javatechs.springboot.controller;
+package net.biomodels.jummp.core.service.fileformat.controller;
 
-import com.itersdesktop.javatechs.springboot.Response;
+import net.biomodels.jummp.core.service.fileformat.Response;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
